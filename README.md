@@ -87,7 +87,7 @@ The data was first normalize in Excel before being transformed in Power query, A
 - Foster collaboration between departments by aligning online and offline strategies and encouraging cross-departmental reviews for continuous improvement.
 
 ## Download
-<a href = "[https://github.com/dedotun/GDP-Analysis-in-Nigeria/raw/main/assets/Nigeria%20GDP%20Overview%20-%20Adedotun%20Awe.pbix](https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Mystella%20Global%20Stores.pbix)"> Downlaod the Power BI file</a>
+<a href = "https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Mystella%20Global%20Stores.pbix"> Downlaod the Power BI file</a>
 
 
 
