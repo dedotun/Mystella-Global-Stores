@@ -41,4 +41,55 @@ Mysellar is a multinational retail corporation that operates a chain of stores -
 
 ## Data Model
 The data was first normalize in Excel before being transformed in Power query, A calendar table was also created in Power BI.
+![Data Model](https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Mystella%20Data%20Model.png)
+
+## Dashboard Insights
+### Region by Region
+- Sub-sahara Africa region led in both sales and profit, closely followed by Europe.
+- The North America region recorded the lowest sales and profit for the company.
+![Sales and Profit by Region](https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Sales%20and%20Profit.png)
+
+### Overview
+- The average recorded shipping time was 8 days, seventeen hours.
+- North America has the shortest shipping time of just below 8 days while the Australia region recorded the highest shipping time of almost 10 days.
+- There are more product order from Vanuatu while Cambodia, Cape verde and The Gambia recorded the lowest.
+![Overview Dashborad](https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Visualization.png)
+
+## Recommendations
+- Optimize shipping operations in Australia by partnering with local couriers, using logistics tech, and establishing regional warehouses.
+
+- Expand in Sub-Saharan Africa by increasing inventory, introducing new products, and enhancing marketing efforts to maintain profitability.
+
+- Improve online department with better user experience, exclusive deals, and stronger digital marketing strategies.
+
+- Leverage offline success by expanding physical stores, applying offline strengths to the online department, and integrating online-offline strategies like click-and-collect.
+
+- Boost North American sales through market research, refining marketing strategies, and offering region-specific promotions.
+
+- Adopt a data-driven approach by regularly analyzing sales data and monitoring customer feedback to understand regional needs.
+
+- Strengthen supply chain management by optimizing logistics and diversifying suppliers for better efficiency across all regions.
+
+- Tailor products to regional preferences by customizing product offerings and localizing marketing content.
+
+- Enhance customer service with region-specific support teams and faster communication channels.
+
+- Optimize distribution network by improving delivery routes and combining internal and third-party logistics for efficiency.
+
+- Expand regional warehousing in Sub-Saharan Africa and Australia, utilizing technology for faster order fulfillment.
+
+- Improve inventory management through dynamic allocation and accurate demand forecasting to avoid stockouts.
+
+- Run region-specific marketing campaigns and use influencer partnerships to boost brand visibility and sales.
+
+- Assess regional pricing strategies and introduce flexible payment options based on local market needs.
+
+- Foster collaboration between departments by aligning online and offline strategies and encouraging cross-departmental reviews for continuous improvement.
+
+## Download
+<a href = "[https://github.com/dedotun/GDP-Analysis-in-Nigeria/raw/main/assets/Nigeria%20GDP%20Overview%20-%20Adedotun%20Awe.pbix](https://github.com/dedotun/Mystella-Global-Stores/blob/main/assets/Mystella%20Global%20Stores.pbix)"> Downlaod the Power BI file</a>
+
+
+
+
 
